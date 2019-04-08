@@ -1,0 +1,13 @@
+{
+  "name": "tiffin",
+  "version": "0.0.0",
+  
+  "authors": [
+    "anushka <anushka98aggarwal@gmail.com>"
+  ],
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
