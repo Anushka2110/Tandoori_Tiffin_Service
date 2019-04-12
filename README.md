@@ -24,7 +24,3 @@ Gmail password: Tiffin@1234<br><br>
     // server: 'smtp.gmail.com', 
     // port:25
 
-To access the database on Mlab, go to `https://mlab.com/login/` and put<br>
- Username: `Anushka2110`<br>
-Password: `Chalkpad2`<br>
-and open database named `tiffin-database`.<br>
